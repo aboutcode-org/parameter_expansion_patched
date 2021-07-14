@@ -11,6 +11,7 @@
 [![pre-commit](https://img.shields.io/badge/pre--commit-enabled-brightgreen?logo=pre-commit&logoColor=white)](https://github.com/pre-commit/pre-commit)
 
 
+NOTE: this is tepomrary advanced release
 
 This is an experiment to create a Python library to enable
 [POSIX parameter expansion][1] from a string.

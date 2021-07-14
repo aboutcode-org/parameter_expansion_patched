@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "parameter-expansion"
+name = "parameter-expansion-patched"
 version = "0.0.0"  # provided by poetry-dynamic-versioning
 description = "POSIX parameter expansion in Python"
 authors = ["Michael A. Smith <michael@smith-li.com>"]
